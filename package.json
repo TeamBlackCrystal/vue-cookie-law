@@ -7,7 +7,7 @@
   "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com:apertureless/vue-cookie-law.git"
+    "url": "git+ssh://git@github.com:TeamBlackCrystal/vue-cookie-law.git"
   },
   "bugs": {
     "url": "https://github.com/apertureless/vue-cookie-law/issues"
